@@ -1,3 +1,5 @@
+>## This Project Is Deprecated. Use [emoji-mart-vue](https://github.com/jm-david/emoji-mart-vue) instead.
+
 <div align="center">
   <br><b>Vue Emoji Mart</b> is a Slack-like customizable<br>emoji picker component for Vue, inspired by [Emoji Mart](https://github.com/missive/emoji-mart).
   <br><a href="https://missive.github.io/emoji-mart">Demo</a> • <a href="https://github.com/missive/emoji-mart/releases">Changelog</a>
